@@ -1,5 +1,5 @@
 # A Bayesian Network Modeling of the Demand of Taipei Subway Ridership with Gaussian Mixture Models
-### Team members: Pranay Anchan(pya209), Wei-Yun Wang(wyw2380), Sung Hoon Yang(shy256), Siddhanth Shetty(sds695)
+### Team members: Pranay Anchan(pya209), Wei-Yun Wang(wyw238), Sung Hoon Yang(shy256), Siddhanth Shetty(sds695)
 
 In this project, we explore the subway of Taipei, Taiwan. We want to understand whether different demographics and land values will affect the ridership of the subway, and how the demand of subway responds to different temporal features. 
 
